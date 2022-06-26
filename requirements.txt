@@ -1,0 +1,7 @@
+matplotlib
+onnx
+onnxruntime
+# onnxruntime-gpu
+opencv-python>=4.1.1
+torch
+torchvision
